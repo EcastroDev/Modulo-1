@@ -99,6 +99,13 @@ README.md
 
 ---
 
+
+## Enlaces
+
+1. Repositorio GitHub: ([MyGitHub)](https://github.com/EcastroDev/Modulo-1/tree/main)
+2. Aplicación en Streamlit Cloud: ([MyStreamlit](https://modulo-1-erickcastrocherres.streamlit.app/))
+
+---
 ## Autor
 
 Erick Jonathan Castro Cherres  
