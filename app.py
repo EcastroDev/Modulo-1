@@ -17,7 +17,7 @@ if pagina == "Home":
         "**Título del proyecto:** Aplicaciones en Streamlit - Fundamentos de Programación\n\n"
         "**Nombre y Apellidos :** Erick Jonathan Castro Cherres\n\n"
         "**Módulo             :** Python Fundamentals\n\n"
-        "**Fecha              :** 17 de junio del 2024\n\n"
+        "**Fecha              :** 22 de febrerodel 2026\n\n"
         "**Descripcion        :** En esta aplicación se presentan diferentes ejercicios utilizando Streamlit, una biblioteca de Python que permite crear aplicaciones web interactivas de manera sencilla. La aplicación incluye un menú lateral con opciones para navegar entre diferentes ejercicios, un slider para ingresar la cantidad de elementos y mostrar un arreglo, y una sección para calcular el interés simple utilizando una función definida en el archivo Funciones.py. Además, se muestra una lista de números enteros basada en la entrada del usuario.\n\n"
         "**Tecnologías utilizadas:** Python, Streamlit, NumPy, Pandas"
     )
